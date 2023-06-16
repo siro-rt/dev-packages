@@ -1,0 +1,27 @@
+{
+    "mobileConfiguration": {
+        "prodDevTeam": "PLRAAY64KV",
+        "stagingDevTeam": "PLRAAY64KV",
+        "developDevTeam": "PLRAAY64KV",
+        "localDevTeam": "PLRAAY64KV",
+        "entitlementsFileName": "Start.ca Care.entitlements",
+        "progressBarColor": "43B02A",
+        "stringAppName": "Start.ca Care",
+        "fourDigitCode": "UXUX",
+        "selfHelpTheme": "light/demo",
+        "UIStatusBarStyle": "UIStatusBarStyleLightContent",
+        "imageSetToUse": "White",
+        "appLinksName": "startcare.page.link",
+        "stagingBundle": "StagingStart.ca Care",
+        "developBundle": "DevelopStart.ca Care",
+        "localBundle": "LocalStart.ca Care",
+        "prodBundle": "helps",
+        "itcTeamID": "324498",
+        "appleID": "1641934646",
+        "apiKey":"4fbbf80b-37a4-411a-8ace-216b04fd9c7f",
+        "primaryColor": "#FBEE23",
+        "primaryTextColor": "#000000",
+        "backgroundVariantColor": "#2B3038",
+        "backgroundVariantTextColor": "#E2F3FF"
+    }
+}

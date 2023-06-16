@@ -1,0 +1,30 @@
+{
+    "mobileConfiguration": {
+        "prodDevTeam": "PLRAAY64KV",
+        "stagingDevTeam": "PLRAAY64KV",
+        "developDevTeam": "PLRAAY64KV",
+        "localDevTeam": "PLRAAY64KV",
+        "entitlementsFileName": "RTHRefresh.entitlements",
+        "progressBarColor": "43B02A",
+        "stringAppName": "RouteThis Helps",
+        "fourDigitCode": "UXUX",
+        "selfHelpTheme": "light/demo",
+        "UIStatusBarStyle": "UIStatusBarStyleLightContent",
+        "imageSetToUse": "White",
+        "appLinksName": "routethis.page.link",
+        "stagingBundle": "StagingRTHRefresher",
+        "developBundle": "DevelopRTHRefresher",
+        "localBundle": "LocalRTHRefresher",
+        "prodBundle": "helps",
+        "itcTeamID": "324498",
+        "appleID": "1641934646",
+        "apiKey":"4fbbf80b-37a4-411a-8ace-216b04fd9c7f",
+        "primaryColor": "#58DBB9",
+        "primaryTextColor": "#2B3038",
+        "backgroundVariantColor": "#2B3038",
+        "backgroundVariantTextColor": "#E2F3FF",
+        "errorColor": "#BA1A1A",
+        "successColor": "#00B451",
+        "warningColor": "#FFC107"
+    }
+}

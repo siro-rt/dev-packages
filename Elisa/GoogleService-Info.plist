@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1024363449304-san36phljr9f2lu9rgsus53kubug6mas.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1024363449304-san36phljr9f2lu9rgsus53kubug6mas</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYTNOLq5rBcii1_nM7oivY3NIblUq9lYY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1024363449304</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.routethis.Elisa-Verkkoapuri</string>
+	<key>PROJECT_ID</key>
+	<string>elisa-verkkoapuri</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elisa-verkkoapuri.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1024363449304:ios:03fef99e43aaaf2fddc0ad</string>
+</dict>
+</plist>

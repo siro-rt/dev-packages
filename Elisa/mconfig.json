@@ -1,0 +1,29 @@
+{
+    "mobileConfiguration": {
+        "prodDevTeam": "PLRAAY64KV",
+        "stagingDevTeam": "PLRAAY64KV",
+        "developDevTeam": "PLRAAY64KV",
+        "localDevTeam": "PLRAAY64KV",
+        "entitlementsFileName": "Elisa Verkkoapuri.entitlements",
+        "stringAppName": "Elisa Verkkoapuri",
+        "fourDigitCode": "ELSA",
+        "selfHelpTheme": "light/elisa",
+        "UIStatusBarStyle": "UIStatusBarStyleLightContent",
+        "imageSetToUse": "White",
+        "appLinksName": "elisaverkkoapuri.page.link",
+        "stagingBundle": "StagingRefreshWL",
+        "developBundle": "DevelopRefreshWL",
+        "localBundle": "LocalRefreshWL",
+        "prodBundle": "refreshwl",
+        "itcTeamID": "324498",
+        "appleID": "6449945360",
+        "apiKey":"4fbbf80b-37a4-411a-8ace-216b04fd9c7f",
+        "primaryColor": "#00239D",
+        "primaryTextColor": "#FFFFFF",
+        "backgroundVariantColor": "#2B3038",
+        "backgroundVariantTextColor": "#E2F3FF",
+        "errorColor": "#BA1A1A",
+        "successColor": "#00B451",
+        "warningColor": "#FFC107"
+    }
+}
